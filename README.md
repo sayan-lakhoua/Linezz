@@ -6,6 +6,8 @@ Linezz for Apple Vision Pro
 
 Linezz is a drawing application designed specifically for Apple Vision Pro (visionOS). It allows users to draw in 3D space using ARKit hand tracking, creating smooth, dynamic strokes with multiple brush styles.
 
+This application is based on the tutorial “Build a Spatial Drawing App with RealityKit” provided by Apple Inc. as part of the Worldwide Developers Conference (WWDC) 2024. Please refer to https://developer.apple.com/videos/play/wwdc2024/10104/ for more details.
+
 ## Features
 
 * Real-time AR hand tracking–based drawing in 3D space
@@ -21,6 +23,7 @@ Linezz is a drawing application designed specifically for Apple Vision Pro (visi
 * Ability to undo the latest drawings
 * Automatic zone delimitation
 * UI is still in developement
+* Spatial Accessory support
 * More coming soon
 
 
@@ -59,7 +62,8 @@ Linezz is a drawing application designed specifically for Apple Vision Pro (visi
 This project ("Linezz") is licensed under a specific license. See the [LICENSE](LICENSE.txt) file for details.
 
 **Please Note:**
-This app is also part of the Neigboorhood SF program.
+
+This application is based on the tutorial “Build a Spatial Drawing App with RealityKit” provided by Apple Inc. as part of the Worldwide Developers Conference (WWDC) 2024. Please refer to https://developer.apple.com/videos/play/wwdc2024/10104/ for more details.
 
 ## TestFlight Beta Version of Linezz
 The first version of Linezz is available on TestFlight. You can download it from the link below. Please note that this is a beta version and may contain bugs.
